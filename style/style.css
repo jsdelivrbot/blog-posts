@@ -1,0 +1,21 @@
+form a {
+  margin-left: 10px;
+}
+
+.container-fluid {
+  background-color: #FFDEAD;
+  height: 100px;
+  padding: 25px;
+  text-align: center;
+  color: darkorange;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+}
+
+.im {
+  margin-left: 40px;
+}
+
+.headi {
+  color: purple;
+}
