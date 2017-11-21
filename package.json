@@ -1,12 +1,12 @@
 {
-  "name": "redux-simple-starter",
+  "name": "blog-posts",
   "version": "1.0.0",
   "engines": {
     "node": "8.7.0",
     "npm":"5.4.2",
     "webpack":"1.15.0"
     },
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "blog posts",
   "main": "index.js",
   "repository": "https://github.com/vaibhav8/blog-posts",
   "scripts": {
